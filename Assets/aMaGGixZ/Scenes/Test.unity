@@ -2469,6 +2469,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6434862168977656419, guid: 9758e88043aacfd43b0ada6ebdb8381d,
+        type: 3}
+      propertyPath: _interactionDistance
+      value: 6.86
+      objectReference: {fileID: 0}
     - target: {fileID: 7148140360491406979, guid: 9758e88043aacfd43b0ada6ebdb8381d,
         type: 3}
       propertyPath: m_Name

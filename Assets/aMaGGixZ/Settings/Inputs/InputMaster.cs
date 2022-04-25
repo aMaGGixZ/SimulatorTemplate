@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Assets/Settings/Inputs/InputMaster.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Assets/aMaGGixZ/Settings/Inputs/InputMaster.inputactions'
 
 using System;
 using System.Collections;

@@ -16,7 +16,7 @@ PrefabInstance:
     - target: {fileID: 4174141711528957061, guid: d04be2e8a286d6843af9407226eb775c,
         type: 3}
       propertyPath: m_Name
-      value: PickableBook
+      value: Pickable_Book
       objectReference: {fileID: 0}
     - target: {fileID: 7893606892825375357, guid: d04be2e8a286d6843af9407226eb775c,
         type: 3}
